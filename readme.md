@@ -1,31 +1,28 @@
 # IPL Win Predictor
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Predictor-brightgreen)](https://ipl-match-predictor.streamlit.app/)
+[![GitHub Repository](https://img.shields.io/badge/GitHub%20Repo-IPL%20Win%20Predictor-green)](https://github.com/rajatrawal/ipl-win-predictor)
+[![GitHub License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+[![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
+[![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-Model-blue)](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+[![NumPy](https://img.shields.io/badge/NumPy-1.19-blue)](https://numpy.org/)
+[![pandas](https://img.shields.io/badge/pandas-1.2-blue)](https://pandas.pydata.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-0.80-blue)](https://www.streamlit.io/)
+
 Welcome to the "IPL Win Predictor" project! This machine learning model, built using logistic regression, predicts the probability of a team winning an IPL match based on the current match situation. Get ready to make data-driven predictions!
 
 ## About This Project
 
-An interactive Machine Learning web app that predicts the probability of a team winning an IPL match based on live match conditions.
+The "IPL Win Predictor" leverages logistic regression to provide insights into the probability of a team winning an IPL match. This model analyzes various match features, team performance, and player statistics to offer real-time predictions.
 
 ## Project Preview
-This project uses Logistic Regression to predict match outcomes based on:
+![Capture](https://github.com/rajatrawal/ipl-win-predictor/assets/72153827/071a020f-0bf5-4872-904f-5f9a0e928fd1)
 
-Batting Team
-
-Bowling Team
-
-Target Score
-
-Current Score
-
-Overs Completed
-
-Wickets Fallen
-
-The app is built using Streamlit and deployed on Streamlit Cloud.
 
 ## Explore the Project
 
-[![Live Demo]([https://img.shields.io/badge/Live%20Demo-View%20Predictor-brightgreen](https://saurabh6740-ipl-win-predictor-saurabh-app-bpblur.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Predictor-brightgreen)](https://ipl-match-predictor.streamlit.app/)
 
 ### Features
 
@@ -99,10 +96,10 @@ To make predictions, provide the current match situation including team performa
 
 ## Predict with Confidence
 
-Explore the "IPL Win Predictor" and make data-driven predictions about IPL match outcomes. Get real-time insights and enhance your understanding of match dynamics. Visit the [Live Demo]([https://ipl-match-predictor.streamlit.app/](https://saurabh6740-ipl-win-predictor-saurabh-app-bpblur.streamlit.app/) and elevate your cricket analysis.
+Explore the "IPL Win Predictor" and make data-driven predictions about IPL match outcomes. Get real-time insights and enhance your understanding of match dynamics. Visit the [Live Demo](https://ipl-match-predictor.streamlit.app/) and elevate your cricket analysis.
 
 ## Contribute
 
-If you'd like to contribute to this project or have suggestions for improvement, please feel free to submit issues or pull requests on github.
+If you'd like to contribute to this project or have suggestions for improvement, please feel free to submit issues or pull requests on [GitHub](https://github.com/rajatrawal/ipl-win-predictor).
 
 Thank you for exploring the "IPL Win Predictor"! We hope this tool assists your IPL match predictions. 🏏🌟
