@@ -1,6 +1,5 @@
 # IPL Win Predictor
 
-
 Welcome to the "IPL Win Predictor" project! This machine learning model, built using logistic regression, predicts the probability of a team winning an IPL match based on the current match situation. Get ready to make data-driven predictions!
 
 ## About This Project
@@ -26,7 +25,7 @@ The app is built using Streamlit and deployed on Streamlit Cloud.
 
 ## Explore the Project
 
-[![Live Demo]([https://img.shields.io/badge/Live%20Demo-View%20Predictor-brightgreen](https://saurabh6740-ipl-win-predictor-saurabh-app-bpblur.streamlit.app/))
+[![Live Demo]([https://img.shields.io/badge/Live%20Demo-View%20Predictor-brightgreen](https://saurabh6740-ipl-win-predictor-saurabh-app-bpblur.streamlit.app/)
 
 ### Features
 
